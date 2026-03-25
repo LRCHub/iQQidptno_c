@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ジャカ☆ジャ〜ン (『ドラゴンボールDAIMA』オープニング主題歌)",
+  "base_artist": "Zedd",
+  "createdAt": "2026-03-25T13:37:41.726123Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジャカ☆ジャ～ン feat. C&K",
+      "artist": "Zedd, C&K",
+      "has_synced": false,
+      "path": "select/pl_01_ジャカ☆ジャ~ン_feat._C&K_Zedd,_C&K.txt"
+    }
+  ]
+}
